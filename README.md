@@ -1,6 +1,8 @@
 # smc-rw-linux
 SMC reader/writer for Linux written in Rust
 
+AKA: A Rust rewrite of SmcDumpKey.c found at: https://github.com/floe/smc_util/blob/master/SmcDumpKey.c
+
 ## Prerequisites
 
  - Rust / Cargo
