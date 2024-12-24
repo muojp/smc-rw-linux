@@ -255,7 +255,7 @@ fn main() {
                 process::exit(1);
             }
         },
-        0..100 => {
+        0..=100 => {
             match smc_rw.write(args.code.0, args.val) {
                 Err(s) => {
                     eprintln!("data write failed: {}", s);
