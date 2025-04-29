@@ -7,6 +7,7 @@ AKA: A Rust rewrite of SmcDumpKey.c found at: https://github.com/floe/smc_util/b
 
  - Rust / Cargo
    - Tested: rustc 1.83.0 (90b35a623 2024-11-26) / stable-x86_64-unknown-linux-gnu
+   - Tested: rustc 1.86.0 (05f9846f8 2025-03-31) / stable-x86_64-unknown-linux-gnu / Ubuntu 24.04.2 LTS
 
 ## Installation
 
